@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d57db355.css",
+    "main.js": "/static/js/main.06b38aad.js",
+    "static/media/pexels-esteban-santiago-gonzalez-12314825.min.jpg": "/static/media/pexels-esteban-santiago-gonzalez-12314825.min.ecdee9f5c8d41e0d8c1a.jpg",
+    "static/media/pexels-george-pak-7968285.min.jpg": "/static/media/pexels-george-pak-7968285.min.ac34adc7c5da3dbc33f3.jpg",
+    "static/media/pexels-gustavo-fring-4172856.min.jpg": "/static/media/pexels-gustavo-fring-4172856.min.e2bb9a45db415957239f.jpg",
+    "static/media/loginbg.min.jpg": "/static/media/loginbg.min.d3b030bb5fcf7dd8e82a.jpg",
+    "static/media/pexels-rachel-claire-4846221.min.jpg": "/static/media/pexels-rachel-claire-4846221.min.0cf15414630bb9ab67fa.jpg",
+    "static/media/pexels-yeş-8099158.min.jpg": "/static/media/pexels-yeş-8099158.min.7dbac87bf257056f7bb7.jpg",
+    "static/media/pexels-spencer-davis-4353813.min.jpg": "/static/media/pexels-spencer-davis-4353813.min.fd633579fcf3c863a0d0.jpg",
+    "index.html": "/index.html",
+    "main.d57db355.css.map": "/static/css/main.d57db355.css.map",
+    "main.06b38aad.js.map": "/static/js/main.06b38aad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d57db355.css",
+    "static/js/main.06b38aad.js"
+  ]
+}
